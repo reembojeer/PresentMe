@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E2FF8C62AD2B4E7004E1407 /* nora.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2FF8C52AD2B4E7004E1407 /* nora.swift */; };
 		22DD9D112AD2A65D00455C3E /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22DD9D102AD2A65D00455C3E /* SwiftUIView.swift */; };
 		FF48E76E2AD29FB000219EE2 /* PresentMeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF48E76D2AD29FB000219EE2 /* PresentMeApp.swift */; };
 		FF48E7702AD29FB000219EE2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF48E76F2AD29FB000219EE2 /* ContentView.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E2FF8C52AD2B4E7004E1407 /* nora.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nora.swift; sourceTree = "<group>"; };
 		22DD9D102AD2A65D00455C3E /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		FF48E76A2AD29FB000219EE2 /* PresentMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PresentMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF48E76D2AD29FB000219EE2 /* PresentMeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentMeApp.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				FF48E76D2AD29FB000219EE2 /* PresentMeApp.swift */,
 				FF48E76F2AD29FB000219EE2 /* ContentView.swift */,
 				22DD9D102AD2A65D00455C3E /* SwiftUIView.swift */,
+				1E2FF8C52AD2B4E7004E1407 /* nora.swift */,
 				FF48E7712AD29FB100219EE2 /* Assets.xcassets */,
 				FF48E7732AD29FB100219EE2 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF48E7702AD29FB000219EE2 /* ContentView.swift in Sources */,
+				1E2FF8C62AD2B4E7004E1407 /* nora.swift in Sources */,
 				FF48E76E2AD29FB000219EE2 /* PresentMeApp.swift in Sources */,
 				22DD9D112AD2A65D00455C3E /* SwiftUIView.swift in Sources */,
 			);
