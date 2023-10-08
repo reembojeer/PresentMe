@@ -24,7 +24,7 @@ struct ContentView: View {
                        .frame(width: 300.0, height: 300.0)
                 
                 
-                Text("Reem Bojeer")
+                Text("Reem Bojeeraa")
                     .font(.largeTitle)
                 .frame(width: 300)
                 .foregroundStyle(.white)
